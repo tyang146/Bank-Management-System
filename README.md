@@ -4,10 +4,15 @@
 This repository contains an object oriented designed console application that streamline the various operations of a bank. 
 
 ## Functionality
+- User creation
 - User login
-  - Account summary, deposit, and withdraw
+  - Bank account creation
+  - Deposit and withdraw
+  - Account summary
 - Manager login
-- Account creation
+  - Access user's bank account
+  - Delete user's bank account
+  - Delete user
 
 ## Technologies Used
 - C++ 
