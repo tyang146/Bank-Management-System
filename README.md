@@ -5,7 +5,7 @@ This repository contains an object oriented designed console application that st
 
 ## Functionality
 - User login
--- Account summary, deposit, and withdraw
+  - Account summary, deposit, and withdraw
 - Manager login
 - Account creation
 
