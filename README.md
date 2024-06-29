@@ -10,7 +10,7 @@ This repository contains an object oriented designed console application that st
   - Deposit and withdraw
   - Account summary
 - Manager login
-  - Access user's bank account
+  - Access to user's bank account
   - Delete user's bank account
   - Delete user
   - View the numbers of active accounts 
