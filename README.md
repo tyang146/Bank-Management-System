@@ -3,7 +3,7 @@
 ## Overview
 This repository contains an object oriented designed console application that streamline the various operations of a bank. 
 
-## Functionality
+## Features
 - User creation
 - User login
   - Bank account creation
